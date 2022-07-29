@@ -73,3 +73,8 @@ li {
     text-decoration: none;
 }
 
+#project-1 {
+    font-size: 30px;
+    justify-content: left;
+    justify-content: space-around;
+}
